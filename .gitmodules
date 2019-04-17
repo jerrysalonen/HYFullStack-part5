@@ -1,0 +1,6 @@
+[submodule "bloglist-frontend"]
+	path = bloglist-frontend
+	url = https://github.com/jerrysalonen/bloglist-frontend
+[submodule "HYFullStack-part5-21"]
+	path = HYFullStack-part5-21
+	url = https://github.com/jerrysalonen/HYFullStack-part5-21
